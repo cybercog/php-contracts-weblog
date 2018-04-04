@@ -17,7 +17,11 @@ interface Author
 {
     public function authorable(): Authorable;
 
+    public function blogs(): iterable;
+
     public function posts(): iterable;
+
+    public function comments(): iterable;
 
     public function id(): string;
 }
