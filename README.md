@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/cybercog/contracts-weblog/releases"><img src="https://img.shields.io/github/release/cybercog/contracts-weblog.svg?style=flat-square" alt="Releases"></a>
 <a href="https://styleci.io/repos/128128714"><img src="https://styleci.io/repos/128128714/shield" alt="StyleCI"></a>
-<a href="https://scrutinizer-ci.com/g/cybercog/contracts-weblog/?branch=master"><img src="https://img.shields.io/scrutinizer/g/cybercog/contracts-weblog.svg?style=flat-square" alt="Code Quality"></a>
+<a href="https://packagist.org/packages/cybercog/contracts-weblog"><img src="https://img.shields.io/packagist/dt/cybercog/contracts-weblog.svg?style=flat-square" alt="Downloads Counter"></a>
 <a href="https://github.com/cybercog/contracts-weblog/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cybercog/contracts-weblog.svg?style=flat-square" alt="License"></a>
 </p>
 
