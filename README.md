@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Weblog Contracts provides set of contracts for the Framework Interoperable Blog Package development.
+Weblog Contracts provides set of interfaces for the Framework Interoperable Blog Package development.
 
 ## Contents
 
