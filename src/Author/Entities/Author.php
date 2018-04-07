@@ -13,15 +13,17 @@ declare(strict_types=1);
 
 namespace Cog\Contracts\Weblog\Author\Entities;
 
+use Cog\Contracts\Weblog\Authorable\Entities\Authorable;
+
 interface Author
 {
-    public function authorable(): Authorable;
+    public function getAuthorable(): Authorable;
 
-    public function blogs(): iterable;
+    public function getBlogs(): iterable;
 
-    public function posts(): iterable;
+    public function getPosts(): iterable;
 
-    public function comments(): iterable;
+    public function getComments(): iterable;
 
-    public function id(): string;
+    public function getId(): string;
 }

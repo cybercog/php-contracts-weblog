@@ -28,14 +28,14 @@ Weblog Contracts provides set of interfaces for the Framework Interoperable Blog
 
 ## Features
 
-- Strongly Typed.
-- Framework Agnostic.
-- Single-author Blogs.
-- Multi-author Blogs (MABs).
+- Strongly Typed
+- Framework Agnostic
+- Single-author Blogs
+- Multi-author Blogs (MABs)
 - Following PHP Standard Recommendations:
-  - [PSR-1 (Basic Coding Standard)](http://www.php-fig.org/psr/psr-1/).
-  - [PSR-2 (Coding Style Guide)](http://www.php-fig.org/psr/psr-2/).
-  - [PSR-4 (Autoloading Standard)](http://www.php-fig.org/psr/psr-4/).
+  - [PSR-1 (Basic Coding Standard)](http://www.php-fig.org/psr/psr-1/)
+  - [PSR-2 (Coding Style Guide)](http://www.php-fig.org/psr/psr-2/)
+  - [PSR-4 (Autoloading Standard)](http://www.php-fig.org/psr/psr-4/)
 
 ## Installation
 

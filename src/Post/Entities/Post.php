@@ -20,29 +20,29 @@ use DateTimeInterface as DateTime;
 
 interface Post
 {
-    public function blog(): Blog;
+    public function getBlog(): Blog;
 
-    public function category(): ?Category;
+    public function getCategory(): ?Category;
 
-    public function author(): Author;
+    public function getAuthor(): Author;
 
-    public function comments(): iterable;
+    public function getComments(): iterable;
 
-    public function id(): string;
+    public function getId(): string;
 
-    public function slug(): string;
+    public function getSlug(): string;
 
-    public function title(): string;
+    public function getTitle(): string;
 
-    public function subtitle(): ?string;
+    public function getSubtitle(): ?string;
 
-    public function excerpt(): ?string;
+    public function getExcerpt(): ?string;
 
-    public function content(): ?string;
+    public function getContent(): ?string;
 
-    public function createdAt(): DateTime;
+    public function getCreatedAt(): DateTime;
 
-    public function updatedAt(): ?DateTime;
+    public function getUpdatedAt(): ?DateTime;
 
-    public function publishedAt(): ?DateTime;
+    public function getPublishedAt(): ?DateTime;
 }

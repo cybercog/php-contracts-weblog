@@ -11,9 +11,11 @@
 
 declare(strict_types=1);
 
-namespace Cog\Contracts\Weblog\Author\Entities;
+namespace Cog\Contracts\Weblog\Authorable\Entities;
+
+use Cog\Contracts\Weblog\Author\Entities\Author;
 
 interface Authorable
 {
-    public function blogAuthor(): Author;
+    public function getBlogAuthor(): Author;
 }

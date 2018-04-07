@@ -17,15 +17,15 @@ use DateTimeInterface as DateTime;
 
 interface Category
 {
-    public function posts(): iterable;
+    public function getPosts(): iterable;
 
-    public function id(): string;
+    public function getId(): string;
 
-    public function slug(): string;
+    public function getSlug(): string;
 
-    public function name(): string;
+    public function getName(): string;
 
-    public function createdAt(): DateTime;
+    public function getCreatedAt(): DateTime;
 
-    public function updatedAt(): ?DateTime;
+    public function getUpdatedAt(): ?DateTime;
 }

@@ -19,15 +19,15 @@ use DateTimeInterface as DateTime;
 
 interface Comment
 {
-    public function post(): Post;
+    public function getPost(): Post;
 
-    public function author(): Author;
+    public function getAuthor(): Author;
 
-    public function id(): string;
+    public function getId(): string;
 
-    public function content(): string;
+    public function getContent(): string;
 
-    public function createdAt(): DateTime;
+    public function getCreatedAt(): DateTime;
 
-    public function updatedAt(): ?DateTime;
+    public function getUpdatedAt(): ?DateTime;
 }

@@ -18,23 +18,23 @@ use DateTimeInterface as DateTime;
 
 interface Blog
 {
-    public function posts(): iterable;
+    public function getPosts(): iterable;
 
-    public function owner(): Author;
+    public function getOwner(): Author;
 
-    public function editors(): iterable;
+    public function getEditors(): iterable;
 
-    public function writers(): iterable;
+    public function getWriters(): iterable;
 
-    public function id(): string;
+    public function getId(): string;
 
-    public function slug(): string;
+    public function getSlug(): string;
 
-    public function name(): string;
+    public function getName(): string;
 
-    public function description(): ?string;
+    public function getDescription(): ?string;
 
-    public function createdAt(): DateTime;
+    public function getCreatedAt(): DateTime;
 
-    public function updatedAt(): ?DateTime;
+    public function getUpdatedAt(): ?DateTime;
 }
