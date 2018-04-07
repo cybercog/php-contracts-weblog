@@ -30,7 +30,7 @@ interface Post
 
     public function getId(): string;
 
-    public function getSlug(): string;
+    public function getSlug(): ?string;
 
     public function getTitle(): string;
 

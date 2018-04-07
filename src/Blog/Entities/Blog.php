@@ -28,7 +28,7 @@ interface Blog
 
     public function getId(): string;
 
-    public function getSlug(): string;
+    public function getSlug(): ?string;
 
     public function getName(): string;
 
