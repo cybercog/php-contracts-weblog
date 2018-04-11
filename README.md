@@ -1,4 +1,4 @@
-# Weblog Contracts
+# Weblog PHP Contracts
 
 ![cog-contracts-weblog](https://user-images.githubusercontent.com/1849174/38336794-bd7bd996-386b-11e8-861d-d837d126bd50.png)
 
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Weblog Contracts provides set of interfaces for the Framework Interoperable Blog Package development.
+Weblog PHP Contracts provides set of interfaces for the Framework Interoperable Blog Package development.
 
 ## Contents
 
@@ -42,7 +42,7 @@ Weblog Contracts provides set of interfaces for the Framework Interoperable Blog
 First, pull in the package through Composer.
 
 ```sh
-$ composer require cybercog/contracts-weblog
+$ composer require cybercog/php-contracts-weblog
 ```
 
 ## Usage
@@ -66,7 +66,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 | <a href="https://github.com/a-komarev">![@a-komarev](https://avatars.githubusercontent.com/u/1849174?s=110)<br />Anton Komarev</a> |  
 | :---: |
 
-[Weblog Contracts contributors list](../../contributors)
+[Weblog PHP Contracts contributors list](../../contributors)
 
 ## Alternatives
 
@@ -74,7 +74,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 
 ## License
 
-- `Weblog Contracts` package is open-sourced software licensed under the [MIT license](LICENSE) by Anton Komarev.
+- `Weblog PHP Contracts` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev](https://github.com/a-komarev).
 - `Internet Marketing` image licensed under [Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/us/) by Gan Khoon Lay.
 
 ## About CyberCog

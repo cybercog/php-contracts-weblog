@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of Weblog Contracts.
+ * This file is part of Weblog PHP Contracts.
  *
  * (c) Anton Komarev <a.komarev@cybercog.su>
  *

@@ -1,5 +1,5 @@
 {
-    "name": "cybercog/contracts-weblog",
+    "name": "cybercog/php-contracts-weblog",
     "description": "Сontracts for the framework interoperable Blog development.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,7 @@
         "cybercog",
         "cog",
         "contract",
+        "interface",
         "framework-agnostic",
         "interoperable",
         "blog",
@@ -29,13 +30,13 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/cybercog/contracts-weblog",
+    "homepage": "https://github.com/cybercog/php-contracts-weblog",
     "support": {
         "email": "open@cybercog.su",
-        "issues": "https://github.com/cybercog/contracts-weblog/issues",
-        "wiki": "https://github.com/cybercog/contracts-weblog/wiki",
-        "source": "https://github.com/cybercog/contracts-weblog",
-        "docs": "https://github.com/cybercog/contracts-weblog/wiki"
+        "issues": "https://github.com/cybercog/php-contracts-weblog/issues",
+        "wiki": "https://github.com/cybercog/php-contracts-weblog/wiki",
+        "source": "https://github.com/cybercog/php-contracts-weblog",
+        "docs": "https://github.com/cybercog/php-contracts-weblog/wiki"
     },
     "require": {
         "php": "^7.1.3"
