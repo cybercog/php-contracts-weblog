@@ -1,17 +1,17 @@
-# Weblog PHP Contracts
+# PHP Weblog Contracts
 
-![cog-contracts-weblog](https://user-images.githubusercontent.com/1849174/38336794-bd7bd996-386b-11e8-861d-d837d126bd50.png)
+![cog-php-contracts-weblog](https://user-images.githubusercontent.com/1849174/38777266-a428ca5e-40ad-11e8-9965-665bd7405719.png)
 
 <p align="center">
-<a href="https://github.com/cybercog/contracts-weblog/releases"><img src="https://img.shields.io/github/release/cybercog/contracts-weblog.svg?style=flat-square" alt="Releases"></a>
+<a href="https://github.com/cybercog/php-contracts-weblog/releases"><img src="https://img.shields.io/github/release/cybercog/php-contracts-weblog.svg?style=flat-square" alt="Releases"></a>
 <a href="https://styleci.io/repos/128128714"><img src="https://styleci.io/repos/128128714/shield" alt="StyleCI"></a>
-<a href="https://packagist.org/packages/cybercog/contracts-weblog"><img src="https://img.shields.io/packagist/dt/cybercog/contracts-weblog.svg?style=flat-square" alt="Downloads Counter"></a>
-<a href="https://github.com/cybercog/contracts-weblog/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cybercog/contracts-weblog.svg?style=flat-square" alt="License"></a>
+<a href="https://packagist.org/packages/cybercog/php-contracts-weblog"><img src="https://img.shields.io/packagist/dt/cybercog/php-contracts-weblog.svg?style=flat-square" alt="Downloads Counter"></a>
+<a href="https://github.com/cybercog/php-contracts-weblog/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cybercog/php-contracts-weblog.svg?style=flat-square" alt="License"></a>
 </p>
 
 ## Introduction
 
-Weblog PHP Contracts provides set of interfaces for the Framework Interoperable Blog Package development.
+PHP Weblog Contracts provides set of interfaces for the Framework Interoperable Blog Package development.
 
 ## Contents
 
@@ -66,7 +66,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 | <a href="https://github.com/a-komarev">![@a-komarev](https://avatars.githubusercontent.com/u/1849174?s=110)<br />Anton Komarev</a> |  
 | :---: |
 
-[Weblog PHP Contracts contributors list](../../contributors)
+[PHP Weblog Contracts contributors list](../../contributors)
 
 ## Alternatives
 
@@ -74,7 +74,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 
 ## License
 
-- `Weblog PHP Contracts` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev](https://github.com/a-komarev).
+- `PHP Weblog Contracts` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev](https://github.com/a-komarev).
 - `Internet Marketing` image licensed under [Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/us/) by Gan Khoon Lay.
 
 ## About CyberCog
