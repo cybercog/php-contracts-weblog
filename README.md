@@ -63,7 +63,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 
 ## Contributors
 
-| <a href="https://github.com/a-komarev">![@a-komarev](https://avatars.githubusercontent.com/u/1849174?s=110)<br />Anton Komarev</a> |  
+| <a href="https://github.com/antonkomarev">![@antonkomarev](https://avatars.githubusercontent.com/u/1849174?s=110)<br />Anton Komarev</a> |  
 | :---: |
 
 [PHP Weblog Contracts contributors list](../../contributors)
@@ -74,7 +74,7 @@ If you discover any security related issues, please email open@cybercog.su inste
 
 ## License
 
-- `PHP Weblog Contracts` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev](https://github.com/a-komarev).
+- `PHP Weblog Contracts` package is open-sourced software licensed under the [MIT license](LICENSE) by [Anton Komarev](https://github.com/antonkomarev).
 - `Internet Marketing` image licensed under [Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/us/) by Gan Khoon Lay.
 
 ## About CyberCog
