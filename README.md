@@ -41,7 +41,7 @@ PHP Weblog Contracts provides set of interfaces for the Framework Interoperable 
 
 First, pull in the package through Composer.
 
-```sh
+```shell script
 $ composer require cybercog/php-contracts-weblog
 ```
 
